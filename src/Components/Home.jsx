@@ -30,7 +30,7 @@ function Home() {
                 />
             </div><br/>
             <p className='text-sm md:text-md text-justify'>Hello I'm Satyabrat Sahoo, {/*a passionate MCA graduate from KIIT University,*/} from Jajpur of Odisha.
-              I know C++, Oops, Frontend development and Database.
+              I know C++, Python Programming, Oops, Frontend development and Database.
               <br/><br/>Developed these skills through hands-on experience, having built multiple projects
               that showcase my proficiency in the Web technology.
               <br/><br/>🌟 Passionate about pushing the boundaries to deliver high-quality results. I'm constantly exploring new technologies and best practices
